@@ -1,0 +1,2 @@
+# Addressables-Title-Server-Load
+Unity Addressablesを使ってサーバーからAssetをLoadするTitleとMain Sceneを作成
