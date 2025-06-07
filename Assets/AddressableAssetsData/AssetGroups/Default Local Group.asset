@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: c4754e3448c0348adb8346ed4bbee177
+  m_SerializeEntries:
+  - m_GUID: 687dbafc2b84b2846b9a4a7a7dae2a7e
+    m_Address: Assets/StarterAssets/Environment/Prefabs/Box_350x250x300_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b846d8f536f007498c941069487ce81
+    m_Address: Assets/StarterAssets/Environment/Prefabs/Box_350x250x200_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5f4daf24146ee040b5a2d7a73b30aa0
+    m_Address: Assets/StarterAssets/Environment/Prefabs/Box_100x100x100_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8495bce64685741fd887de45d49b7730, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 48d4fe24c5cc0459eb1542c28b7bd413, type: 2}
+    - {fileID: 11400000, guid: fb9dd41ec74604fb897cfec2808ee826, type: 2}
